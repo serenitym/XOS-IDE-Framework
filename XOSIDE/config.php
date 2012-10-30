@@ -1,5 +1,18 @@
 <?
 // The access informations for the users.
+// username and password are encrypted with md5
+
+/*
+
+To create your md5 username and password encrypted with md5
+You can go here:
+
+http://www.md5.cz/
+
+Copy the the encrypted value and replace the already defined below
+
+*/
+
 
 $users = array();
 
@@ -13,26 +26,6 @@ $newUser = array
 
 array_push( $users , $newUser );
 	
-
-
-// CREATE YOUR USERNAME AND PASSWORD
-// 1) Uncomment the 2 lines of code below for printing the md5 values
-// 2) type your access info by replacing 'YOUR_USERNAME' and 'YOUR_PASSWORD'
-// 3) save this file
-// 4) Call this file from the browser 
-// 5) copy the md5 printed values from the browser page
-// 6) paste the printed md5 values into the array "$users" above
-// 6) type your root ( the main dir path of your files to edit ) 
-// 7) Remove the typed access info and comment again the 2 lines of code below
-// 8) Save this file again
-// 9) END
-//10) Try the login. 
-
-/*
-echo 'usr: ' . md5('YOUR_USERNAME') . '<br/>';
-echo 'psw: ' . md5('YOUR_PASSWORD');
-*/
-
 
 
 
