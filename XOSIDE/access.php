@@ -55,7 +55,8 @@ function doUserLogin()
 	if( ! isset( $_POST['username'])  ) exit;
 	if( ! isset( $_POST['password'])  ) exit;
 	
-	$usr = md5(filter_var( $_POST['username'] , FILTER_SANITIZE_STRING));
+	//$usr = md5(filter_var( $_POST['username'] , FILTER_SANITIZE_STRING));
+	$usr = filter_var( $_POST['username'] , FILTER_SANITIZE_STRING);
 	$psw = md5(filter_var( $_POST['password'] , FILTER_SANITIZE_STRING));
 	
 	$logged = false;
