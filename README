@@ -19,7 +19,7 @@ The default root path folder "Virtual Hard Disk" is "../XOSIDE_HD" ( remember to
 
 Open the config.php file and read the instructions on how to create your username, your password and eventually your custom root path folder.
 
-At that point open the index file: "yourWebSpace/XOSIDE/index_EN.php" with the browser.
+At that point open the index file: "yourRemoteFolder/XOSIDE/index_EN.php" with the browser.
 Enter your username and your password into the form.
 if everything is correctly configured, by clicking on the virtual hard drive you should see all the files (if presents) inside  your root path folder. 
 
