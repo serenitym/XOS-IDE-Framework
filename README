@@ -6,14 +6,14 @@ XOSIDE allows you to develop HTML5 applications directly online.
 Thanks to the Codemirror library developed by Marijn Haverbeke (codemirror.net) we have created an IDE online with everything you need for the development.  
 
 Requirements
-XOSIDE is compatible with browsers: Chrome, Safari, Firefox, Opera. Some features such as upload files via drag and drop from your computer to XOSIDE File Browser, are only available for Chrome. The server portion of XOSIDE was built with PHP 5.0.3. 
+XOSIDE is compatible with browsers: Chrome, Safari, Firefox, Opera. Some features such as upload files via drag and drop from your computer to XOSIDE File Browser, are only available for Chrome. The server portion of XOSIDE was built with PHP 5.3.0. 
 
 Installation
-If you have a web site hosted on linux or windows platform with PHP 5.0.3 you already have everything you need. After downloading XOSIDE you will find a folder named "XOSIDE". Upload that folder via Ftp to your web space.
+If you have a web site hosted on linux or windows platform with PHP 5.3.0 you already have everything you need. After downloading Upload all files and folder via Ftp to your web space.
 
 Open the config.php file and read the instructions on how to create your username, your password and your root path folder. 
 
-At this point open the index_EN.php file with the browser, enter your username and your password, if everything is correctly configured, by clicking on the virtual hard drive you should see all the files (if presents) inside the root path folder . 
+At this point open the yourSpace/XOSIDE/index_EN.php file with the browser, enter your username and your password, if everything is correctly configured, by clicking on the virtual hard drive you should see all the files (if presents) inside the root path folder . 
 
 Happy Development
 Riccardo Della Martire
