@@ -9,7 +9,7 @@ Requirements
 XOSIDE is compatible with browsers: Chrome, Safari, Firefox, Opera. Some features such as upload files via drag and drop from your computer to XOSIDE File Browser, are only available for Chrome. The server portion of XOSIDE was built with PHP 5.3.0. 
 
 Installation
-If you have a web site hosted on linux or windows platform with PHP 5.3.0 you already have everything you need. After downloading Upload all files and folder via Ftp to your web space.
+If you have a web site hosted on linux or windows platform with PHP 5.3.0 you already have everything you need. After downloading Upload all files and folder via Ftp into a folder of your web space.
 
 Open the config.php file and read the instructions on how to create your username, your password and your root path folder. 
 
