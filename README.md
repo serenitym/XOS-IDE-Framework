@@ -1,4 +1,7 @@
-![Alt text](/XOS-IDE-Framework/XOSIDE/themes/default/images/XOSIDE_logo.png "XOSIDE - Online Code Editor")
+
+
+![ScreenShot](https://raw.github.com/XOS-IDE-Framework/XOSIDE/themes/default/images/XOSIDE_logo.png)
+
 
 www.xosystem.org/xoside
 
