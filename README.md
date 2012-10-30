@@ -1,6 +1,6 @@
 
 
-![ScreenShot](https://raw.github.com/XOS-IDE-Framework/XOSIDE/themes/default/images/XOSIDE_logo.png)
+![ScreenShot](https://raw.github.com/XOSIDE/themes/default/images/XOSIDE_logo.png)
 
 
 www.xosystem.org/xoside
